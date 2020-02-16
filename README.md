@@ -1,5 +1,5 @@
 
-![alt text][logo](https://raw.githubusercontent.com/con7ext/zerostore-shell/master/logo_transparent.png)
+![alt text](https://raw.githubusercontent.com/con7ext/zerostore-shell/master/logo_transparent.png)
 # zerostore-shell
 Shell Backdoor
 

@@ -14,3 +14,4 @@ Shell Backdoor
 ```
 
 Zero Shell Powered by # ZeroStore.org
+# Rintod.DEV & Codelatte

@@ -16,5 +16,5 @@ Shell Backdoor
 ```
 
 Zero Shell Powered by # ZeroStore.org
-Request Fitur ? Chat [Con7ext](https://web.facebook.com/Con7ext "Con7ext")
+Request Fitur ? Chat [Rintod](https://web.facebook.com/Con7ext "Con7ext") , [Abay](https://web.facebook.com/abaaaay) , [Galerz](https://web.facebook.com/hax0rtersakiti)
 ### Rintod.DEV & Codelatte

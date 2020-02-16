@@ -1,3 +1,5 @@
+
+![alt text][https://raw.githubusercontent.com/con7ext/zerostore-shell/master/logo_transparent.png]
 # zerostore-shell
 Shell Backdoor
 
@@ -14,4 +16,5 @@ Shell Backdoor
 ```
 
 Zero Shell Powered by # ZeroStore.org
+Request Fitur ? Chat 
 ### Rintod.DEV & Codelatte
